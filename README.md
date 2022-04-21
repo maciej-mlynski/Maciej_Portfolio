@@ -1,10 +1,11 @@
 # My courses
 ## SQL
 
-{
-"first Name" : "Maciej",
-"Last Name" : "Młyński"
-}
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 
 # My projects
