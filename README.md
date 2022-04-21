@@ -32,13 +32,16 @@
 | Certificate of Investment Analyst (CAI)            | 58               | ZMID         | 28.03.2021    | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/CAI2021.png?raw=true)
 | Google Data Analytics                              | HRDXGSVV3RVB     | Google       | 20.04.2022    | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/googleAnalytics04.22.png?raw=true)
 
+All of the courses I took included assignments to complete and texts to read. Therefore, the length of the courses is not a complete picture of the work I have done.
+
+I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
+
+I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
 
 
-[Click to see](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonForBeginers04.2021.png?raw=true)
+### My projects
 
-
-# My projects
-
+##### [Project 1: Trader Vic Algorithm](https://github.com/maciej-mlynski/TraderVicProject.git)
 
 
 
