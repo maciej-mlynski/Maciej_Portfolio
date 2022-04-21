@@ -133,8 +133,14 @@ The project is quite long, so I will just present main things:
 		ORDER BY ps.Name, p.Color, p.Size
 
 
-
-
+**Results**:
+1. I group sales by name, size and color becouse this makes up the key to creating an unique product name.
+2. I group sales by unit price and discount becouse all bikes has been sold in few differen unit prices (3-4).
+3. I group by months becouse of 2 reasons: The assortment changes in May and people has different shopping moods in relation to the season.
+4. I drop all sales where order has been done after the bike has been withdrawn from production.
+5. In PriceToCost column I count proportion of sale price to standard cost. I use that becouse it was a lot different prices, but the proportion was similar, so I could reduce feature twice.
+6. I count Aveliability, to distinguish which one is new or old. There was no bike aveliable longer than 2 years.
+7. This is one year of sales from May 2012 to May 2013. Why May? Becouse, shop change assortment this month.
 
 
 
