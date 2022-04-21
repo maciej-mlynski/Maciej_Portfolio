@@ -43,7 +43,7 @@ I try to make my projects ambitious and useful. Not all projects were finished b
 
 ##### [Project 1: Trader Vic Algorithm](https://github.com/maciej-mlynski/TraderVicProject.git)
 
-![]
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/TV.png?raw=true)
 
 
 
