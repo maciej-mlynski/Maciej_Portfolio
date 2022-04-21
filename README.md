@@ -115,10 +115,10 @@ The project is quite long, so I will just present main things:
 **SQL Queries**
 
 
+		SELECT
 
-	'''	SELECT
-
-			ps.Name,p.Color, p.Size,s.UnitPriceDiscount, DATEDIFF(MONTH, '2012-05-31', MONTH(sh.OrderDate) as MonthOfSale, 	       						FLOOR((DATEDIFF(MONTH, MIN(p.SellStartDate),MIN(sh.OrderDate))-1)/12) as YearsOfAveliability,
+			ps.Name,p.Color, p.Size,s.UnitPriceDiscount, DATEDIFF(MONTH, '2012-05-31', MONTH(sh.OrderDate) as MonthOfSale,
+			FLOOR((DATEDIFF(MONTH, MIN(p.SellStartDate),MIN(sh.OrderDate))-1)/12) as YearsOfAveliability,
 			MIN(p.Weight) as Weight, MIN(p.Class) as Class, AVG(p.StandardCost) as StanstadCost, MIN(p.ListPrice) as ListPrice, 
 			s.UnitPrice * (1-s.UnitPriceDiscount) as FinalSellPrice , (s.UnitPrice * (1-s.UnitPriceDiscount))/AVG(p.StandardCost) as PriceToCost,
 			SUM(s.OrderQty) as OrdersQuantity,
@@ -132,7 +132,7 @@ The project is quite long, so I will just present main things:
 		GROUP BY GROUPING SETS((ps.Name, s.UnitPrice,s.UnitPriceDiscount, p.Size, p.Color, MONTH(sh.OrderDate)))
 		ORDER BY ps.Name, p.Color, p.Size
 
-'''
+
 
 
 
