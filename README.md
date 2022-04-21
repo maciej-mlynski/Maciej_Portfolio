@@ -162,10 +162,10 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 
 ##### Polly regression model Summary
 
-|                  | R2 score       | MAE      | Avg. sales (month) | MAE/Avg (%)         
-| -----------------| ---------------|----------|--------------------|------------
-| Train data       | 0.67174155     | 10.56    | 30.96              | 34%
-| Test data        | 0.60021455     | 11.9     | 29.24              | 40%
+|                  | R2 score  | Avg. sales (month) | MAE      | RMSE        
+| -----------------| ----------|--------------------|----------|---------
+| Train data       | 0.67174   | 30.96              | 10.56    | 15.23
+| Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
 
 ### Support or Contact
