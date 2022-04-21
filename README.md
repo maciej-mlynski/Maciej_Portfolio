@@ -1,17 +1,19 @@
 # My courses
 
 ### SQL
-
+```markdown
 | Title                                              | Instructor   | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -------------|------------|-----------------|----------|
 | SQL for beginners - PostgrateSql                   | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
 | Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
 | Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.21.png?raw=true)
-)
 | Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.22.png?raw=true)
+```
 
 
-
+### Python
+| Title                                              | Instructor   | Date       | Course duration | Evidence |
+| 
 
 
 
