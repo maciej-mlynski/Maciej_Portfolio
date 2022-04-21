@@ -4,11 +4,10 @@
 
 | Title                                              | Instructor   | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -------------|------------|-----------------|----------|
-| SQL for beginners - PostgrateSql                   | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciejmlynski/Maciej_Portfolio/blob/main/Images/SLQBeginers01.2021.png)
-| Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.2021.png)
-| Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.2021.png)
-| Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.2022.png)
-
+| SQL for beginners - PostgrateSql                   | Rafal Mobilo | 08/01/2021 | 6.5             | [Click]()
+| Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click]()
+| Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5             | [Click]()
+| Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5               | [Click]()
 
 
 
