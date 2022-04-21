@@ -143,15 +143,16 @@ The project is quite long, so I will just present main things:
 7. This is one year of sales from May 2012 to May 2013. Why May? Becouse, shop change assortment this month.
 
 #### Analysis
-![]()
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Analysis.png?raw=true)
 
 **Conclusions:**
-1. The chart shows the same bike models sold in 2012-2013 and 2013-2014
+1. The chart shows the same bikes models sold in 2012-2013 and 2013-2014.
 2. It is interesting to note that some bikes that sold well in 2012 were removed.
 3. What is even more interesting is that the worst-selling models in 2012 sold at a satisfactory level in 2013. Of course, I mean the sales revenue.
 4. The conclusion is that the store did not recall the worst-selling models. It removed those that were likely to be discontinued.
 5. Through the analysis, I also realized that total sales profit does not reflect the full picture.
 6. The store for large orders or when a product was about to be discontinued sold the bikes much lower than standard cost.
+
 
 #### Prediction
 
