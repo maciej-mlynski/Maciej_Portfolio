@@ -26,7 +26,11 @@
 | Azure Databricks & Spark (Python/SQL)              | Ramesh Retnasamy | 31/03/2022 | 15              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/AzureSpark03.22.png?raw=true)
 
 
-
+### Certificates
+| Title                                              | Reference number | Organization | Date          | Evidence         
+| ---------------------------------------------------| -----------------|--------------|---------------|----------
+| Certificate of Investment Analyst (CAI)            | 58               | ZMID         | 28.03.2021    | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/CAI2021.png?raw=true)
+| Google Data Analytics                              | HRDXGSVV3RVB     | Google       | 20.04.2022    | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/googleAnalytics04.22.png?raw=true)
 
 
 
