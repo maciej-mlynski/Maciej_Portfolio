@@ -12,8 +12,19 @@
 
 
 ### Python
-| Title                                              | Instructor   | Date       | Course duration | Evidence |
-| 
+| Title                                              | Instructor       | Date       | Course duration | Evidence |
+| ---------------------------------------------------| -----------------|------------|-----------------|----------|
+| Python for beginners                               | Rafal Mobilo     | 26/04/2021 | 8               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonBeginners04.21.png?raw=true)
+| Data Analysis in Python and PANDAS                 | Rafal Mobilo     | 18/05/2021 | 14.5            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/DataScience05.2021.png?raw=true)
+| ML - Perceptron & Linear Regression                | Rafal Mobilo     | 28/05/2021 | 7.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MachineLearning05.21.png?raw=true)
+| Python for Time Series Data Analysis               | Jose Portilla    | 07/06/2021 | 15.5            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/TimeSeriesSnalysis06.21.png?raw=true)
+| Python for ML & DS Masterclass                     | Jose Portilla    | 22/12/2021 | 44              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MLDSMasterclass11.21.png?raw=true)
+| PyTorch for Deep Learning with Python Bootcamp     | Jose Portilla    | 08/03/2022 | 17              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PyTorch03.22.png?raw=true)
+| Django 4 and Python Developer Masterclass          | Jose Portilla    | 12/02/2022 | 17              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Django02.22.png?raw=true)
+| Tensorflow 2 Keras DL Bootcamp                     | Jose Portilla    | 21/03/2022 | 19              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tensorflow03.22.png?raw=true)
+| Credit Risk Modeling in Python                     | 365 Careers      | 21/03/2022 | 7               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/RiskModelingPython03.22.png?raw=true)
+| Azure Databricks & Spark (Python/SQL)              | Ramesh Retnasamy | 31/03/2022 | 15              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/AzureSpark03.22.png?raw=true)
+
 
 
 
