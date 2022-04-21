@@ -6,7 +6,7 @@
 | Header      | Title       |
 | Paragraph   | Text        |
 
-![alt](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonForBeginers04.2021.png?raw=true)
+[Click to see](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonForBeginers04.2021.png?raw=true)
 
 
 # My projects
