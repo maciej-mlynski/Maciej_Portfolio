@@ -114,14 +114,12 @@ The project is quite long, so I will just present main things:
 
 **SQL Queries**
 
-Markdown
+
+
 '''
-USE AdventureWorks2019
-GO
 
 SELECT
-	
-	ps.Name,p.Color, p.Size,s.UnitPriceDiscount, DATEDIFF(MONTH, '2012-05-31',MIN(sh.OrderDate)) as MonthsFromMay, MONTH(sh.OrderDate) as MonthOfSale, FLOOR((DATEDIFF(MONTH, MIN(p.SellStartDate),MIN(sh.OrderDate))-1)/12) as YearsOfAveliability,
+	ps.Name,p.Color, p.Size,s.UnitPriceDiscount, DATEDIFF(MONTH, '2012-05-31',MIN(sh.OrderDate)) as MonthsFromMay, MONTH(sh.OrderDate) as MonthOfSale, 	       		FLOOR((DATEDIFF(MONTH, MIN(p.SellStartDate),MIN(sh.OrderDate))-1)/12) as YearsOfAveliability,
 	MIN(p.Weight) as Weight, MIN(p.Class) as Class, AVG(p.StandardCost) as StanstadCost, MIN(p.ListPrice) as ListPrice, 
 	s.UnitPrice * (1-s.UnitPriceDiscount) as FinalSellPrice , (s.UnitPrice * (1-s.UnitPriceDiscount))/AVG(p.StandardCost) as PriceToCost,
 	SUM(s.OrderQty) as OrdersQuantity,
