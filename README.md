@@ -1,8 +1,12 @@
 # My courses
 ## SQL
 
-|ok|cool|cool|
-|man|bin|shin|
+{
+"first Name" : "Maciej",
+"Last Name" : "Młyński"
+}
+
+
 # My projects
 
 
