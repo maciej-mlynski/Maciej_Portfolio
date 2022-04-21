@@ -112,7 +112,7 @@ The project can be divided into several stages:
 
 The project is quite long, so I will just present main things:
 
-**SQL Queries**
+#### SQL Queries
 
 
 		SELECT
@@ -142,9 +142,29 @@ The project is quite long, so I will just present main things:
 6. I count Aveliability, to distinguish which one is new or old. There was no bike aveliable longer than 2 years.
 7. This is one year of sales from May 2012 to May 2013. Why May? Becouse, shop change assortment this month.
 
+#### Analysis
+![]()
 
+**Conclusions:**
+1. The chart shows the same bike models sold in 2012-2013 and 2013-2014
+2. It is interesting to note that some bikes that sold well in 2012 were removed.
+3. What is even more interesting is that the worst-selling models in 2012 sold at a satisfactory level in 2013. Of course, I mean the sales revenue.
+4. The conclusion is that the store did not recall the worst-selling models. It removed those that were likely to be discontinued.
+5. Through the analysis, I also realized that total sales profit does not reflect the full picture.
+6. The store for large orders or when a product was about to be discontinued sold the bikes much lower than standard cost.
 
+#### Prediction
 
+Initially, I wanted to create an algorithm using logical regression to assess whether the product would bring an annual ROI of more or less than 5%.
+**BUT**
+After an analysis, that I outlined earlier. I understood that it would be more important for the company to estimate the number of units sold in a certain month, with a certain ratio of selling price to production cost.
+
+##### Polly regression model Summary
+
+|                  | R2 score       | MAE      | Avg. sales (month) | MAE/Avg (%)         
+| -----------------| ---------------|----------|--------------------|------------
+| Train data       | 0.67174155     | 10.56    | 30.96              | 34%
+| Test data        | 0.60021455     | 11.9     | 29.24              | 40%
 
 
 ### Support or Contact
