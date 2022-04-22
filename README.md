@@ -1,3 +1,11 @@
+## Profile
+
+In University I realized that learning is an essential part of life. I learned what relational database is and how it works, how to deal with dirty data, how to analyze it and how to build simple regression models. I know how much learning still lies ahead of me, but my main goal now is to find a job where I can prove my worth.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## My courses
 
 ### SQL
@@ -164,7 +172,46 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 | Train data       | 0.67174   | 30.96              | 10.56    | 15.23
 | Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
+**Coment:**...............................
 
-### Support or Contact
+### [Project 5: ETH wallet tracker by API compared to USD price](https://github.com/maciej-mlynski/WalletTracker.git)
+
+Etherscan API allows you to track transactions in any wallet account.
+The tools can be useful if you would like to track the dollar value of a selected portfolio, for example. 
+
+**To get the balance of a given ETH portfolio you need to:**
+1. Download the transaction history.
+2. Set your initial account balance to 0 ETH
+3. add the purchase transactions by subtracting the gas price
+4. Subtract sales transactions
+5. Subtract any internal transactions, which usually represent the cost of creating your own smart account.
+
+Once we have portfolio balance histories we encounter another problem. Namely, in order to compare the portfolio balance to the price of a fiat currency, let's say USD, we need to have the balance history in continuous form. 
+
+The solution I created allowed the portfolio state to be rewritten until the next portfolio state change was identified.
+
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tracker.png?raw=true)
+
+Just as there is nothing to complain about when it comes to portfolio analysis, the tool has some noticeable flaws when it comes to tracking transactions. 
+1. Tracker can see only 1000 day back
+2. There are wallets, that has only negative transaction and balance is also negative. I guess that is becouse of the limited period of tracking.
+
+**How to improve it?**
+
+I think that the good idea is to reverse the proces if balance is negative:
+
+1. First get the actuall balance (There is variable in API which can do that easly)
+2. Then go back and subtract purchase transactions and add sales transactions
+
+
+
+
+
+
+
+
+
+
+###### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
