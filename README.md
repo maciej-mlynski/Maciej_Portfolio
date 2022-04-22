@@ -164,6 +164,34 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 | Train data       | 0.67174   | 30.96              | 10.56    | 15.23
 | Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
+**Coment:**...............................
+
+### [Project 5: ETH wallet tracker by API compared to USD price](https://github.com/maciej-mlynski/WalletTracker.git)
+
+Etherscan API allows you to track transactions in any wallet account.
+The tools can be useful if you would like to track the dollar value of a selected portfolio, for example. 
+
+**To get the balance of a given ETH portfolio you need to:**
+1. Download the transaction history.
+2. Set your initial account balance to 0 ETH
+3. add the purchase transactions by subtracting the gas price
+4. Subtract sales transactions
+5. Subtract any internal transactions, which usually represent the cost of creating your own smart account.
+
+Once we have portfolio balance histories we encounter another problem. Namely, in order to compare the portfolio balance to the price of a fiat currency, let's say USD, we need to have the balance history in continuous form. 
+
+The solution I created allowed the portfolio state to be rewritten until the next portfolio state change was identified.
+
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tracker.png?raw=true)
+
+
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+
+
+
 
 ### Support or Contact
 
