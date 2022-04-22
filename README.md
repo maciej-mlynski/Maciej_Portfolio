@@ -2,7 +2,7 @@
 
 ### SQL
 
-| Title                                              | Instructor   | Date       | Course duration | Evidence |
+| ####### Title                                              | Instructor   | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -------------|------------|-----------------|----------|
 | SQL for beginners - PostgrateSql                   | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
 | Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
@@ -34,12 +34,9 @@
 
 All of the courses I took included assignments to complete and texts to read. Therefore, the length of the courses is not a complete picture of the work I have done.
 
-I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
-
-I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
-
-
 ## My projects
+I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
+I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
 
 
 ### [Project 1: Trader Vic Algorithm](https://github.com/maciej-mlynski/TraderVicProject.git)
