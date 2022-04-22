@@ -4,7 +4,7 @@
 
 | Title                                              | Instructor   | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -------------|------------|-----------------|----------|
-| SQL for beginners - PostgrateSql                   | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
+| SQL for beginners - PostgrateSql             | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
 | Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
 | Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.21.png?raw=true)
 | Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.22.png?raw=true)
@@ -34,12 +34,9 @@
 
 All of the courses I took included assignments to complete and texts to read. Therefore, the length of the courses is not a complete picture of the work I have done.
 
-I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
-
-I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
-
-
 ## My projects
+I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
+I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
 
 
 ### [Project 1: Trader Vic Algorithm](https://github.com/maciej-mlynski/TraderVicProject.git)
@@ -143,15 +140,16 @@ The project is quite long, so I will just present main things:
 7. This is one year of sales from May 2012 to May 2013. Why May? Becouse, shop change assortment this month.
 
 #### Analysis
-![]()
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Analysis.png?raw=true)
 
 **Conclusions:**
-1. The chart shows the same bike models sold in 2012-2013 and 2013-2014
+1. The chart shows the same bikes models sold in 2012-2013 and 2013-2014.
 2. It is interesting to note that some bikes that sold well in 2012 were removed.
 3. What is even more interesting is that the worst-selling models in 2012 sold at a satisfactory level in 2013. Of course, I mean the sales revenue.
 4. The conclusion is that the store did not recall the worst-selling models. It removed those that were likely to be discontinued.
 5. Through the analysis, I also realized that total sales profit does not reflect the full picture.
 6. The store for large orders or when a product was about to be discontinued sold the bikes much lower than standard cost.
+
 
 #### Prediction
 
@@ -161,10 +159,10 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 
 ##### Polly regression model Summary
 
-|                  | R2 score       | MAE      | Avg. sales (month) | MAE/Avg (%)         
-| -----------------| ---------------|----------|--------------------|------------
-| Train data       | 0.67174155     | 10.56    | 30.96              | 34%
-| Test data        | 0.60021455     | 11.9     | 29.24              | 40%
+|                  | R2 score  | Avg. sales (month) | MAE      | RMSE        
+| -----------------| ----------|--------------------|----------|---------
+| Train data       | 0.67174   | 30.96              | 10.56    | 15.23
+| Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
 
 ### Support or Contact
