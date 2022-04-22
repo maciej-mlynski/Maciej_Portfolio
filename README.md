@@ -1,7 +1,8 @@
-## Profile
+## Maciej Młyński Profile
+
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true)
 
 In University I realized that learning is an essential part of life. I learned what relational database is and how it works, how to deal with dirty data, how to analyze it and how to build simple regression models. I know how much learning still lies ahead of me, but my main goal now is to find a job where I can prove my worth.
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
