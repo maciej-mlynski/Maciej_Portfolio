@@ -1,4 +1,4 @@
-## **Maciej Młyński Profile**
+<h1 style="color:#F0F8FF;">Maciej Młyński Profile<h1>
 
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true)
 
