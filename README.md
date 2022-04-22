@@ -184,6 +184,17 @@ The solution I created allowed the portfolio state to be rewritten until the nex
 
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tracker.png?raw=true)
 
+Just as there is nothing to complain about when it comes to portfolio analysis, the tool has some noticeable flaws when it comes to tracking transactions. 
+1. Tracker can see only 1000 day back
+2. There are wallets, that has only negative transaction and balance is also negative. I guess that is becouse of the limited period of tracking.
+
+**How to improve it?**
+
+I think that the good idea is to reverse the proces if balance is negative:
+
+1. First get the actuall balance (There is variable in API which can do that easly)
+2. Then go back and subtract purchase transactions and add sales transactions
+
 
 
 Translated with www.DeepL.com/Translator (free version)
