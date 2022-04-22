@@ -1,10 +1,11 @@
-<h1 style="color:#F0F8FF;">Maciej Młyński Profile<h1>
+<h1 style="color:#003366;" >Maciej Młyński <h1>
 
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true)
 
+## Profile 	
 In University I realized that learning is an essential part of life. I learned what relational database is and how it works, how to deal with dirty data, how to analyze it and how to build simple regression models. I know how much learning still lies ahead of me, but my main goal now is to find a job where I can prove my worth.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 
 ## My courses
@@ -43,6 +44,9 @@ In University I realized that learning is an essential part of life. I learned w
 
 All of the courses I took included assignments to complete and texts to read. Therefore, the length of the courses is not a complete picture of the work I have done.
 
+	
+-----------------------------------------------------------------------
+	
 ## My projects
 I spent a lot of time doing my own projects. As it happens in life not everything works out as we would like it to. 
 I try to make my projects ambitious and useful. Not all projects were finished because of the time I had, but it doesn't mean I won't come back to them. 
