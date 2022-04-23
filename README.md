@@ -3,7 +3,25 @@
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true)
 
 ## Profile 	
-In University I realized that learning is an essential part of life. I learned what relational database is and how it works, how to deal with dirty data, how to analyze it and how to build simple regression models. I know how much learning still lies ahead of me, but my main goal now is to find a job where I can prove my worth.
+I started my adventure with data analysis in University. I built my first regression models then. 
+
+I knew very well that Data Analysis is the best way to increase efficiency in any field. 
+
+Unfortunately, at the University we used Excel and Gretel mostly, and the examples we were analyzing were so trivial that they did not arouse much interest in me. 
+
+The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. U can read it [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
+
+The book I was analyzing told the story about Jim Simons, who sparked the quant revolution in the financial markets. 
+<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/simons.jpg?raw=true" alt="drawing" width="200"/>
+The book inspired me so much that I decided to start learning process immediately. 
+
+I started with courses on creating queries in SQL. Then I started learning Python and libraries useful for data preparation, analysis and visualization. I'll admit that I got so sucked in, that I don't even know when the first year passed. 
+
+In addition to the courses, I also tried to develop my own projects, which were not always as easy and quick to complete as I had initially assumed. 
+
+I learned a lot during that year. However, I am aware of how much learning still lies ahead of me. But honestly, this does not discourage me at all! I am determined to find an internship in my field in the near future. 
+
+I know I didn't graduate with a DS or QE, but my greatest asset is the persistence and problem-solving skills I have acquired through various projects. I have proven to myself that I can do anything, and now I would like to prove the same to my future employer
 
 -----------------------------------------------------------------------
 ----------------------------------------------------------------------
