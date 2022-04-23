@@ -13,9 +13,9 @@ Unfortunately, at the University we used Excel and Gretel mostly, and the exampl
 The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. U can read it [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
 
 The book I was analyzing told the story about **Jim Simons**, who sparked the quant revolution in the financial markets.
-
-<img align="center" src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/simons.jpg?raw=true" alt="drawing" width="300"/>
-
+<p align="center">
+	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/simons.jpg?raw=true" alt="drawing" width="300"/>
+</p>
 The book inspired me so much that I decided to **start learning process immediately.**
 
 I started with courses on creating **queries in SQL**. Then I started learning **Python** and **libraries useful for data preparation, analysis and visualization.** I'll admit that I got so sucked in, that I don't even know when the first year passed. 
