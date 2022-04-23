@@ -2,8 +2,9 @@
 
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true)
 
-## Profile 	
-I started my adventure with data analysis in University. I built my first regression models then. 
+## Profile
+	
+I started my adventure with data analysis in University. I built my **first regression models then.** 
 
 I knew very well that Data Analysis is the best way to increase efficiency in any field. 
 
