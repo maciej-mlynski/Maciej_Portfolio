@@ -17,7 +17,7 @@ The first time I came across a practical application of data was when I was prep
 
 The book I was analyzing told the story about **Jim Simons**, who sparked the quant revolution in the financial markets.
 <p align="center">
-	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/simons.jpg?raw=true" alt="drawing" width="300"/>
+	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/uekjimpython.png?raw=true" alt="drawing" width="1200"/>
 </p>
 The book inspired me so much that I decided to **start learning process immediately.**
 
