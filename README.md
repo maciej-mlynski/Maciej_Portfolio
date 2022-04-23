@@ -13,7 +13,7 @@ I knew very well that Data Analysis is the best way to increase efficiency in an
 
 Unfortunately, at the University we used Excel and Gretel mostly, and the examples we were analyzing were so trivial that they did not arouse much interest in me. 
 
-The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. U can read it [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
+The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. Red [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
 
 The book I was analyzing told the story about **Jim Simons**, who sparked the quant revolution in the financial markets.
 <p align="center">
@@ -27,7 +27,7 @@ In addition to the courses, I also tried to develop my own projects, which **wer
 
 I learned a lot during that year. However, I am aware of how much learning still lies ahead of me. But honestly, **this does not discourage me at all!** I am determined to find an internship in my field in the near future. 
 
-I know I didn't graduate with a DS or QE, but my greatest asset is the **persistence** and **problem-solving skills** I have acquired through various projects. I have proven to myself that **I can do anything**, and now I would like to **prove the same to my future employer.**
+I know I didn't graduate with a DS or QE, but my greatest asset is the **persistence** and **problem-solving skills** I have acquired through various projects. I have proven to myself that I can do anything, and now I would like to prove the same to my future employer.
 
 -----------------------------------------------------------------------
 ----------------------------------------------------------------------
