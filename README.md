@@ -1,6 +1,6 @@
 
 <p align="center">
-	<h1 style="color:#003366;" >Maciej Młyński <h1>
+	
 	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true" alt="drawing" width="300"/>
 </p>
 
