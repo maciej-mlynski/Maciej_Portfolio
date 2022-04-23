@@ -1,8 +1,8 @@
 <p align="center">
-	<h1 style="color:#003366;text-align:center;">Maciej Młyński</h>
+	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true" alt="drawing" width="300"/>
 </p>
 <p align="center">
-	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true" alt="drawing" width="300"/>
+	<h1 style="color:#003366;text-align:center;">Maciej Młyński</h1>
 </p>
 
 ## Profile
