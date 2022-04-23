@@ -1,6 +1,5 @@
 
 <p align="center">
-	
 	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/me.png?raw=true" alt="drawing" width="300"/>
 </p>
 
