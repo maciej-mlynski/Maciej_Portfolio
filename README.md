@@ -238,10 +238,17 @@ The tool is based on the Markowitz model and the modern concept of capital manag
 
 ![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/MarkowitzModelSimulation.png?raw=true)
 
+**Green star** is portfolio with higherst Sharp Ratio selected automaticly
+
+**Blue star** is portfolio with highest Return base on max acceptable volatality
+
 5. Check portfolio weights over choesen period and do the rebalancing if necessary.
 
 ![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/rebalanceingCompare.png?raw=true)
 
+6. Summary and comparison
+
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/walletsComparsion.png?raw=true)
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
