@@ -219,41 +219,29 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 | Train data       | 0.67174   | 30.96              | 10.56    | 15.23
 | Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
-**Coment:**...............................
+
 
 
 ----------------------------------------------------------------------------
 
 
 
-### [Project 5: ETH wallet tracker by API compared to USD price](https://github.com/maciej-mlynski/WalletTracker.git)
+### [Project 5: Modern Portfolio Simulator](https://github.com/maciej-mlynski/ModerPortfolioSimulator)
 
-Etherscan API allows you to track transactions in any wallet account.
-The tools can be useful if you would like to track the dollar value of a selected portfolio, for example. 
+The tool is based on the Markowitz model and the modern concept of capital management based on limiting volatility with the highest possible profit potential.
 
-**To get the balance of a given ETH portfolio you need to:**
-1. Download the transaction history.
-2. Set your initial account balance to 0 ETH
-3. add the purchase transactions by subtracting the gas price
-4. Subtract sales transactions
-5. Subtract any internal transactions, which usually represent the cost of creating your own smart account.
+**Step by step:**
+1. Stocks and period selection
+2. Data preparation
+3. Markowitz Portfolio Simulation
+4. Find the best model for user
 
-Once we have portfolio balance histories we encounter another problem. Namely, in order to compare the portfolio balance to the price of a fiat currency, let's say USD, we need to have the balance history in continuous form. 
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/MarkowitzModelSimulation.png?raw=true)
 
-The solution I created allowed the portfolio state to be rewritten until the next portfolio state change was identified.
+5. Check portfolio weights over choesen period and do the rebalancing if necessary.
 
-![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tracker.png?raw=true)
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/WeightsAfterRebalanceing.png?raw=true) ![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/walletsComparsion.png?raw=true)
 
-Just as there is nothing to complain about when it comes to portfolio analysis, the tool has some noticeable flaws when it comes to tracking transactions. 
-1. Tracker can see only 1000 day back
-2. There are wallets, that has only negative transaction and balance is also negative. I guess that is becouse of the limited period of tracking.
-
-**How to improve it?**
-
-I think that the good idea is to reverse the proces if balance is negative:
-
-1. First get the actuall balance (There is variable in API which can do that easly)
-2. Then go back and subtract purchase transactions and add sales transactions
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
