@@ -240,8 +240,7 @@ The tool is based on the Markowitz model and the modern concept of capital manag
 
 5. Check portfolio weights over choesen period and do the rebalancing if necessary.
 
-![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/WeightsUnbalanced.png?raw=true)
-![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/WeightsAfterRebalanceing.png?raw=true) 
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/rebalanceingCompare.png?raw=true)
 
 
 ----------------------------------------------------------------------------
