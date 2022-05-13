@@ -250,6 +250,8 @@ The tool is based on the Markowitz model and the modern concept of capital manag
 
 ![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/walletsComparsion.png?raw=true)
 
+If You would like to see full description of project click [here](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/README.md)
+
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
