@@ -210,7 +210,7 @@ The project is quite long, so I will just present main things:
 
 Initially, I wanted to create an algorithm using logical regression to assess whether the product would bring an annual ROI of more or less than 5%.
 **BUT**
-After an analysis, that I outlined earlier. I understood that it would be more important for the company to estimate the number of units sold in a certain month, with a certain ratio of selling price to production cost.
+After an analysis, that I outlined earlier. I understood that it would be more important for the company to estimate the number of units sold in a certain month, with a certain ratio of selling price to production cost. That is why I created polly regression in order to predict the quantity of monthly sale.
 
 ##### Polly regression model Summary
 
@@ -220,7 +220,7 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 | Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
 
-
+At the end model can predict monthly quantity of sales base on model name, size, color, class, year of aveliability and price to cost value with 11.9 unit mean absolute error, which is not bad. I belive that it is posible to increase results by spliting analyzed sales into 2 groups: individual sales and business sales. It could be also helpful if I found out the real reason for the recall of some models.
 
 ----------------------------------------------------------------------------
 
