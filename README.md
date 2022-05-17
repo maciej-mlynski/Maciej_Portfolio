@@ -16,9 +16,13 @@ Unfortunately, at the University we used Excel and Gretel mostly, and the exampl
 The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. Red [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
 
 The book I was analyzing told the story about **Jim Simons**, who sparked the quant revolution in the financial markets.
+
+
 <p align="center">
-	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/simons.jpg?raw=true" alt="drawing" width="300"/>
+	<img src="https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/uekjimpython.png?raw=true" alt="drawing" width="1200"/>
 </p>
+
+
 The book inspired me so much that I decided to **start learning process immediately.**
 
 I started with courses on creating **queries in SQL**. Then I started learning **Python** and **libraries useful for data preparation, analysis and visualization.** I'll admit that I got so sucked in, that I don't even know when the first year passed. 
@@ -206,7 +210,7 @@ The project is quite long, so I will just present main things:
 
 Initially, I wanted to create an algorithm using logical regression to assess whether the product would bring an annual ROI of more or less than 5%.
 **BUT**
-After an analysis, that I outlined earlier. I understood that it would be more important for the company to estimate the number of units sold in a certain month, with a certain ratio of selling price to production cost.
+After an analysis, that I outlined earlier. I understood that it would be more important for the company to estimate the number of units sold in a certain month, with a certain ratio of selling price to production cost. That is why I created polly regression in order to predict the quantity of monthly sale.
 
 ##### Polly regression model Summary
 
@@ -215,41 +219,38 @@ After an analysis, that I outlined earlier. I understood that it would be more i
 | Train data       | 0.67174   | 30.96              | 10.56    | 15.23
 | Test data        | 0.60022   | 29.24              | 11.9     | 16.82
 
-**Coment:**...............................
 
+At the end model can predict monthly quantity of sales base on model name, size, color, class, year of aveliability and price to cost value with 11.9 unit mean absolute error, which is not bad. I belive that it is posible to increase results by spliting analyzed sales into 2 groups: individual sales and business sales. It could be also helpful if I found out the real reason for the recall of some models.
 
 ----------------------------------------------------------------------------
 
 
 
-### [Project 5: ETH wallet tracker by API compared to USD price](https://github.com/maciej-mlynski/WalletTracker.git)
+### [Project 5: Modern Portfolio Simulator](https://github.com/maciej-mlynski/ModerPortfolioSimulator)
 
-Etherscan API allows you to track transactions in any wallet account.
-The tools can be useful if you would like to track the dollar value of a selected portfolio, for example. 
+The tool is based on the Markowitz model and the modern concept of capital management based on limiting volatility with the highest possible profit potential.
 
-**To get the balance of a given ETH portfolio you need to:**
-1. Download the transaction history.
-2. Set your initial account balance to 0 ETH
-3. add the purchase transactions by subtracting the gas price
-4. Subtract sales transactions
-5. Subtract any internal transactions, which usually represent the cost of creating your own smart account.
+**Step by step:**
+1. Stocks and period selection
+2. Data preparation
+3. Markowitz Portfolio Simulation
+4. Find the best model for user
 
-Once we have portfolio balance histories we encounter another problem. Namely, in order to compare the portfolio balance to the price of a fiat currency, let's say USD, we need to have the balance history in continuous form. 
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/MarkowitzModelSimulation.png?raw=true)
 
-The solution I created allowed the portfolio state to be rewritten until the next portfolio state change was identified.
+**Green star** is portfolio with higherst Sharp Ratio selected automaticly
 
-![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tracker.png?raw=true)
+**Blue star** is portfolio with highest Return base on max acceptable volatality
 
-Just as there is nothing to complain about when it comes to portfolio analysis, the tool has some noticeable flaws when it comes to tracking transactions. 
-1. Tracker can see only 1000 day back
-2. There are wallets, that has only negative transaction and balance is also negative. I guess that is becouse of the limited period of tracking.
+5. Check portfolio weights over choesen period and do the rebalancing if necessary.
 
-**How to improve it?**
+![](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/rebalanceingCompare.png?raw=true)
 
-I think that the good idea is to reverse the proces if balance is negative:
+6. Summary and comparison
 
-1. First get the actuall balance (There is variable in API which can do that easly)
-2. Then go back and subtract purchase transactions and add sales transactions
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/walletsComparsion.png?raw=true)
+
+If You would like to see full description of project click [here](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/README.md)
 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
