@@ -6,6 +6,8 @@
 </p>
 
 ## Profile
+
+#### [My linkedin profile](https://www.linkedin.com/in/maciej-mlynski-1931a7236/)
 	
 I started my adventure with data analysis in University. I built my **first regression models then.** 
 
