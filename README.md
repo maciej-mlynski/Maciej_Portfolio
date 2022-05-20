@@ -6,18 +6,18 @@
 </p>
 
 ## Personal info
------------------------------------------------------------------------
+
 
 #### [My linkedin profile](https://www.linkedin.com/in/maciej-mlynski-1931a7236/)
 #### Date of birth: 16 May 1997
 #### Email: maciej.mlynski97@gmial.com
 #### Period of learnig DS: 1+ year
 
-
+----------------------------------------------------------------------
 
 
 ## Profile
------------------------------------------------------------------------
+
 I started my adventure with data analysis in University. I built my **first regression models then.** 
 
 I knew very well that Data Analysis is the best way to increase efficiency in any field. 
