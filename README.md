@@ -248,7 +248,7 @@ The tool is based on the Markowitz model and the modern concept of capital manag
 3. Markowitz Portfolio Simulation
 4. Find the best model for user
 
-![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/MarkowitzModelSimulation.png?raw=true)
+![](https://github.com/maciej-mlynski/ModerPortfolioSimulator/blob/main/Img/MM_Model2.png?raw=true)
 
 **Green star** is portfolio with higherst Sharp Ratio selected automaticly
 
