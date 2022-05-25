@@ -11,20 +11,20 @@
 #### [My linkedin profile](https://www.linkedin.com/in/maciej-mlynski-1931a7236/)
 #### Date of birth: 16 May 1997
 #### Email: maciej.mlynski97@gmial.com
-#### Period of learnig DS: 1+ year
+#### Period of learnig DS: 1 year +
 
 ----------------------------------------------------------------------
 
 
 ## Profile
 
-I started my adventure with data analysis in University. I built my **first regression models then.** 
+I started my adventure with data analysis in University. I built my **first regression models there.** 
 
-I knew very well that Data Analysis is the best way to increase efficiency in any field. 
+I knew very well that Data Analysis and Data Science is the best way to increase efficiency in any field. 
 
 Unfortunately, at the University we used Excel and Gretel mostly, and the examples we were analyzing were so trivial that they did not arouse much interest in me. 
 
-The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. Red [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
+The first time I came across a practical application of data was when I was preparing a series of posts on all-time investors for my blog. Read [here](https://financialmill.pl/posts/readpageckrrf/readpage.html)
 
 The book I was analyzing told the story about **Jim Simons**, who sparked the quant revolution in the financial markets.
 
@@ -54,11 +54,11 @@ I know I didn't graduate with a DS or QE, but my greatest asset is the **persist
 
 | Title                                              | Instructor   | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -------------|------------|-----------------|----------|
-| SQL for beginners - PostgrateSql             | Rafal Mobilo | 08/01/2021 | 6.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
-| Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
-| Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.21.png?raw=true)
-| Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.22.png?raw=true)
-
+| SQL for beginners - PostgrateSql             | Rafal Mobilo | 08/01/2021 | 6.5 h            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/SQLBeginners01.21.png?raw=true)
+| Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3 h               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
+| Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.21.png?raw=true)
+| Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5 h              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.22.png?raw=true)
+| SQL Server - Programming, advanced types, XML      | Rafal Mobilo | 20/05/2022 | 4.5 h            | [click]()
 
 ----------------------------------------------------------------------------	
 	
@@ -66,18 +66,18 @@ I know I didn't graduate with a DS or QE, but my greatest asset is the **persist
 ### Python
 | Title                                              | Instructor       | Date       | Course duration | Evidence |
 | ---------------------------------------------------| -----------------|------------|-----------------|----------|
-| Python for beginners                               | Rafal Mobilo     | 26/04/2021 | 8               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonBeginners04.21.png?raw=true)
-| Data Analysis in Python and PANDAS                 | Rafal Mobilo     | 18/05/2021 | 14.5            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/DataScience05.2021.png?raw=true)
-| ML - Perceptron & Linear Regression                | Rafal Mobilo     | 28/05/2021 | 7.5             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MachineLearning05.21.png?raw=true)
-| Python for Time Series Data Analysis               | Jose Portilla    | 07/06/2021 | 15.5            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/TimeSeriesSnalysis06.21.png?raw=true)
-| Python for ML & DS Masterclass                     | Jose Portilla    | 22/12/2021 | 44              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MLDSMasterclass11.21.png?raw=true)
-| PyTorch for Deep Learning with Python Bootcamp     | Jose Portilla    | 08/03/2022 | 17              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PyTorch03.22.png?raw=true)
-| Django 4 and Python Developer Masterclass          | Jose Portilla    | 12/02/2022 | 17              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Django02.22.png?raw=true)
-| Tensorflow 2 Keras DL Bootcamp                     | Jose Portilla    | 21/03/2022 | 19              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tensorflow03.22.png?raw=true)
-| Credit Risk Modeling in Python                     | 365 Careers      | 21/03/2022 | 7               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/RiskModelingPython03.22.png?raw=true)
-| Azure Databricks & Spark (Python/SQL)              | Ramesh Retnasamy | 31/03/2022 | 15              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/AzureSpark03.22.png?raw=true)
-| Quantitative Finance & Algoritmic Trading          | Holczer Balazs   | 04/05/2022 | 15              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/QuantitativeFinance.png?raw=true)
-
+| Python for beginners                               | Rafal Mobilo     | 26/04/2021 | 8 h              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PythonBeginners04.21.png?raw=true)
+| Data Analysis in Python and PANDAS                 | Rafal Mobilo     | 18/05/2021 | 14.5 h           | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/DataScience05.2021.png?raw=true)
+| ML - Perceptron & Linear Regression                | Rafal Mobilo     | 28/05/2021 | 7.5 h            | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MachineLearning05.21.png?raw=true)
+| Python for Time Series Data Analysis               | Jose Portilla    | 07/06/2021 | 15.5 h           | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/TimeSeriesSnalysis06.21.png?raw=true)
+| Python for ML & DS Masterclass                     | Jose Portilla    | 22/12/2021 | 44 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/MLDSMasterclass11.21.png?raw=true)
+| PyTorch for Deep Learning with Python Bootcamp     | Jose Portilla    | 08/03/2022 | 17 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/PyTorch03.22.png?raw=true)
+| Django 4 and Python Developer Masterclass          | Jose Portilla    | 12/02/2022 | 17 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Django02.22.png?raw=true)
+| Tensorflow 2 Keras DL Bootcamp                     | Jose Portilla    | 21/03/2022 | 19 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/Tensorflow03.22.png?raw=true)
+| Credit Risk Modeling in Python                     | 365 Careers      | 21/03/2022 | 7 h              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/RiskModelingPython03.22.png?raw=true)
+| Azure Databricks & Spark (Python/SQL)              | Ramesh Retnasamy | 31/03/2022 | 15 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/AzureSpark03.22.png?raw=true)
+| Quantitative Finance & Algoritmic Trading          | Holczer Balazs   | 04/05/2022 | 15 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/QuantitativeFinance.png?raw=true)
+| PySpark Essentials for Data Scientists (Big Data + Python) | Layla AI | currently | 17.5 h            | 
 
 ----------------------------------------------------------------------------
 	
