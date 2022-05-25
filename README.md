@@ -58,7 +58,7 @@ I know I didn't graduate with a DS or QE, but my greatest asset is the **persist
 | Introduction & installation 70-761 exam lvl.1      | Rafal Mobilo | 14/01/2021 | 3 h               | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761SQL01.21.png?raw=true)
 | Querying 70-761 exam lvl.2                         | Rafal Mobilo | 25/01/2021 | 5.5 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-761_2SQL01.21.png?raw=true)
 | Data modification & transactions 70-762 exam lvl.4 | Rafal Mobilo | 08/03/2022 | 5 h              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/70-762SQL03.22.png?raw=true)
-| SQL Server - Programming, advanced types, XML      | Rafal Mobilo | 20/05/2022 | 4.5 h            | [click]()
+| SQL Server - Programming, advanced types, XML      | Rafal Mobilo | 20/05/2022 | 4.5 h            | [click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/CertfikatSQLTypyZaawansowane.pdf)
 
 ----------------------------------------------------------------------------	
 	
