@@ -77,7 +77,7 @@ I know I didn't graduate with a DS or QE, but my greatest asset is the **persist
 | Credit Risk Modeling in Python                     | 365 Careers      | 21/03/2022 | 7 h              | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/RiskModelingPython03.22.png?raw=true)
 | Azure Databricks & Spark (Python/SQL)              | Ramesh Retnasamy | 31/03/2022 | 15 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/AzureSpark03.22.png?raw=true)
 | Quantitative Finance & Algoritmic Trading          | Holczer Balazs   | 04/05/2022 | 15 h             | [Click](https://github.com/maciej-mlynski/Maciej_Portfolio/blob/main/Images/QuantitativeFinance.png?raw=true)
-| PySpark Essentials for Data Scientists (Big Data + Python) | Layla AI | currently | 17.5 h            | 
+| Spark and Python for Big Data with PySpark | Jose Portilla | 14/06/2022 | 10.5 h            | [Click](https://www.udemy.com/certificate/UC-a89ecb35-fea6-4996-8d3c-e1450515ee36/)
 
 ----------------------------------------------------------------------------
 	
